@@ -11,8 +11,8 @@
 	<groupId>com.graphql</groupId>
 	<artifactId>TP_GraphQL</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>HotelReservation-GraphQL</name>
-	<description>Hotel Reservation GraphQL API</description>
+	<name>TP_GraphQL</name>
+	<description>TP GraphQL API</description>
 	<properties>
 		<java.version>23</java.version> <!-- Use Java 17 or higher -->
 	</properties>
